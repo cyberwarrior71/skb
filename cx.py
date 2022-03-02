@@ -73,14 +73,14 @@ def show_program():
                     %sINFORMATION%s
  ------------------------------------------------------
 
-    Author     Debby Anggraini 'CiKu370'
-    Name       OSIF 'Open Source Information Facebook'
+    Author     Shariar Sakib
+    Name       Master Mind
     CodeName   D3b2y
     version    full version
     Date       16/05/2018 09:35:12
-    Team       Blackhole Security
-    Email      xnver404@gmail.com
-    Telegram   @CiKu370
+    Team       Golden Eagle Hackers
+    Email      shariarsakib939@gmail.com
+   
 
 * if you find any errors or problems , please contact
   author
